@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "thrlk00";
 
 class SobreMim extends Desenvolvedor {
@@ -11,3 +12,4 @@ class Skills extends Desenvolvedor {
   linguagens = ["JAVA/SPRINGBOOT/JAVASCRIPT/"];
   frameworks = ["VUE.JS"];
 }
+```
