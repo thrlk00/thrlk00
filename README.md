@@ -10,7 +10,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Maringá,_PR-1a1a2e?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🏢_BDS_Informática-1a1a2e?style=flat-square"/>
   <img src="https://img.shields.io/badge/🎓_Alura-1a1a2e?style=flat-square"/>
 </p>
 
