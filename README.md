@@ -2,9 +2,7 @@
 
 # Arthur Andrade Duarte
 
-**Desenvolvedor de Software** · Marialva, PR 🇧🇷
-
-*"O código é poesia — cada linha conta uma história."*
+**Desenvolvedor de Software** · Maringa, PR 🇧🇷
 
 ---
 
