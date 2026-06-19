@@ -10,6 +10,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Maringá,_PR-1a1a2e?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏢_BDS_Informática-1a1a2e?style=flat-square"/>
   <img src="https://img.shields.io/badge/🎓_Alura-1a1a2e?style=flat-square"/>
 </p>
 
@@ -32,7 +33,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thrlk00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrlk00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
