@@ -22,6 +22,6 @@
 
 ---
 
-<sub>Estudante de Engenharia de Software · Alura · BDS Informática</sub>
+<sub>Estudante de Engenharia de Software · Alura · AI</sub>
 
 </div>
