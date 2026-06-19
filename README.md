@@ -34,13 +34,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrlk00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thrlk00&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
 ---
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=thrlk00&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 
 ---
 
